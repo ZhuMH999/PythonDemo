@@ -4,7 +4,7 @@ The turtle will first draw out the playing grid,
 when the player clicks on the respective boxes, X or O will be drawn on the screen.
 However, if the box already has an X or O, nothing else would be drawn on it.
 
-@Author : Zhu Minghao Ryan
+@Author : ZhuMH999
 """
 import turtle
 import math
