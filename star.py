@@ -3,7 +3,7 @@ This program demonstrates drawing a star on the window using the turtle module.
 The star would be drawn on the screen when mouse clicks on the screen.
 But when drawing in progress, no new stars would be drawn.
 
-@Author : Zhu Minghao Ryan
+@Author : ZhuMH999
 """
 
 import turtle
